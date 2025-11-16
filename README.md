@@ -1,4 +1,4 @@
-# Hi, I’m Kavin Siaw 👋  
+# Hi, I am Kavin Siaw 👋  
 Physics & Astronomy researcher | Python & Astropy | Time-domain data analysis
 
 ---
